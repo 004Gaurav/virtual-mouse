@@ -27,6 +27,13 @@ A Python-based virtual mouse that uses a webcam and hand gesture recognition to 
 
 ---
 
+## 📁 Access All Demo Videos
+
+👉 [Click here to browse the `assets/` folder](https://github.com/004Gaurav/virtual-mouse/tree/main/assets)  
+(Contains all demo videos and images)
+
+---
+
 ## Installation
 
 1. Clone this repository:
